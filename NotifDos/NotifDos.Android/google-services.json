@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295021365317",
+    "project_id": "notifdos",
+    "storage_bucket": "notifdos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295021365317:android:90de2df66d3fdfa1f57b2c",
+        "android_client_info": {
+          "package_name": "com.companyname.notifdos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295021365317-oslckma3jdg2lni5e74kve4v1pi33kqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIznC5HZr3YJY_JRvVv1KncEyGxc0CEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295021365317-oslckma3jdg2lni5e74kve4v1pi33kqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
